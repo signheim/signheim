@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @signheim
-- 👀 I’m interested in Visualisation of data, facts, ideas and emotions
+- 👀 I’m interested in visualisation of data, facts, ideas and emotions
 - 🌱 I’m currently learning more JavaScript and MicroPython
 - 💞️ I’m looking to collaborate on collecting knowledge for beginners (like me, the eternal beginner)
 - 📫 How to reach me? You'll find a way ...
